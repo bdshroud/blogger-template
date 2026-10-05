@@ -2,6 +2,31 @@
 <!DOCTYPE html>
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   <head>
+
+ <!-- remove m=1? -->
+       <script>/*<![CDATA[*/ var uri = window.location.toString();if (uri.indexOf("?m=1","?m=1") > 0) {var clean_uri = uri.substring(0, uri.indexOf("?m=1"));window.history.replaceState({}, document.title, clean_uri); }; /*]]>*/</script>
+
+        <!-- Google tag (gtag.js) -->
+    <script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-990GVNMCK3'/>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag(&#39;js&#39;, new Date());
+
+      gtag(&#39;config&#39;, &#39;G-990GVNMCK3&#39;);
+    </script>
+
+         <!-- adsense -->
+        <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4927403815859360'/>
+
+
+
+
+
+
+
+
+
  <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
 <link href='//fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,700|Kalam:700' rel='stylesheet'/>
 <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
@@ -5530,7 +5555,7 @@ content: &quot;\f0d2&quot;;
          
                     <div class='ty_footer_copyright'>
 
-Copyright &#169; <script>document.write(new Date().getFullYear())</script> <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a> &#8231;  All rights reserved.<span style='opacity: 0;'>Made with &#9829; by <a href='https://www.civilexperiences.com/'>Civil Experiences</a></span>
+Copyright &#169; <script>document.write(new Date().getFullYear())</script> <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a> &#8231;  All rights reserved.<span style='opacity: 0;'>Made with &#9829; by <a href='https://www.next-gentech.co.uk/'>bdShroud</a></span>
   
                        </div>
  <b:section class='bottom-bar-social blue' id='Footer social widget' maxwidgets='1' name='Footer Social Widget' showaddelement='no'>
